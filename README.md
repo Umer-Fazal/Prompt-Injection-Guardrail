@@ -85,7 +85,7 @@ To reproduce the report's three separate seed folders, run with `--seed 42`, `--
 
 ```bash
 git clone https://github.com/Umer-Fazal/Prompt-Injection-Guardrail
-cd https://github.com/Umer-Fazal/Prompt-Injection-Guardrail
+cd Prompt-Injection-Guardrail
 python -m venv .venv && source .venv/bin/activate
 pip install torch transformers datasets sentence-transformers scikit-learn xgboost shap matplotlib pandas sentencepiece accelerate protobuf
 python prompt_injection_v2.py --smoke --out smoke_test
