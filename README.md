@@ -1,6 +1,6 @@
 # Adaptive Multi-Layer Guardrail for Prompt Injection
 
-Course project for AI for Cybersecurity (FAST NUCES Karachi). Detects prompt injection and jailbreaks with three fused layers, tested against an adaptive attacker. Everything is in `prompt_injection_v2.py`.
+Detects prompt injection and jailbreaks with three fused layers, tested against an adaptive attacker. Everything is in `prompt_injection_v2.py`.
 
 ## Overview
 
